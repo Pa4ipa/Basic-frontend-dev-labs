@@ -1,0 +1,994 @@
+    body {
+        font-family: 'Rubik', sans-serif;
+    }
+
+    /* Landingpage */
+
+    .Landingpage {
+        position: absolute;
+        width: 1457px;
+        height: 5181px;
+        z-index: 1000;
+        background: #FFFFFF;
+    }
+
+    /* Illu: ;stration 2 */
+
+    .Illustration {
+        position: absolute;
+        width: 508.12px;
+        height: 414.71px;
+        left: 184.52px;
+        top: 960.38px;
+        background: url(index/Illustration%202.jpg)
+    }
+
+    /* Group 1294 */
+
+    .Group {
+        position: absolute;
+        width: 30.55px;
+        height: 30.55px;
+        left: 357.86px;
+        top: 1029.23px;
+    }
+
+    /* Rectangle 279 */
+
+    .Rectangle {
+        position: absolute;
+        width: 1440.16px;
+        height: 2083.2px;
+        left: 0.86px;
+        top: 1506.28px;
+
+        background: linear-gradient(180deg, #F8F8F8 -45.04%, rgba(248, 248, 248, 0) 88.56%);
+    }
+
+    /* Rectangle 260 */
+
+    .rectangl {
+        position: absolute;
+        width: 1440px;
+        height: 563.12px;
+        left: 0px;
+        top: 4625.78px;
+
+        background: #F8F8F8;
+    }
+
+    /* Rectangle 269 */
+
+    .rectang {
+        position: absolute;
+        width: 1077.17px;
+        height: 250px;
+        left: 181.41px;
+        top: 4525.78px;
+
+        background: #0D1025;
+        opacity: 0.06;
+        filter: blur(114px);
+        border-radius: 10px;
+    }
+
+    /* Illustration 1 */
+
+    .Illustratiog {
+        position: absolute;
+        width: 619.24px;
+        height: 382.44px;
+        left: 754.76px;
+        top: 179.11px;
+        background: url(index/Illustration%201.jpg)
+    }
+
+    /* Logo */
+    .Logo {
+        position: absolute;
+        width: 148px;
+        height: 36.23px;
+        left: 150px;
+        top: 50px;
+        background: url(index/Logo.jpg)
+    }
+
+    /* Button/signup */
+
+    .signup {
+        position: absolute;
+        width: 150px;
+        height: 46px;
+        left: 1154px;
+        top: 45.62px;
+        background: url(index/signup.jpg)
+    }
+
+    /* Sign In */
+
+    .sign {
+        position: absolute;
+        width: 53px;
+        height: 17px;
+        left: 1070px;
+        top: 58.62px;
+
+
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        background: url(index/Sign%20In.jpg)
+    }
+
+    /* Want anything to be easy with LaslesVPN. */
+
+    .want {
+        position: absolute;
+        width: 555px;
+        height: 140px;
+        left: 150px;
+        top: 206.77px;
+
+
+        font-weight: 500;
+        font-size: 50px;
+        line-height: 70px;
+        background: url(index/Want%20anything%20to%20be%20easy%20with%20LaslesVPN..jpg)
+    }
+
+    /* Button/get started */
+
+    .button {
+        position: absolute;
+        width: 300px;
+        height: 90.29px;
+        left: 150px;
+        top: 476.77px;
+        background: url(index/get%20started.jpg)
+    }
+
+    /* Icon/user */
+
+    .Icon {
+        position: absolute;
+        width: 55px;
+        height: 55px;
+        left: 242px;
+        top: 737.05px;
+        background: url(index/user.jpg)
+    }
+
+    /* Group 1129 */
+
+    .group {
+        position: absolute;
+        width: 54px;
+        height: 65px;
+        left: 335.5px;
+        top: 732.05px;
+        background: url(index/Group%201129.jpg)
+    }
+
+    /* Icon/location */
+
+    .location {
+        position: absolute;
+        width: 55px;
+        height: 55px;
+        left: 635.5px;
+        top: 737.05px;
+        background: url(index/location.jpg)
+    }
+
+    /* Group 1131 */
+
+    .grou {
+        position: absolute;
+        width: 91px;
+        height: 65px;
+        left: 729px;
+        top: 732.05px;
+        background: url(index/Group%201131.jpg)
+    }
+
+    /* Icon/Server */
+
+    .Server {
+        position: absolute;
+        width: 55px;
+        height: 55px;
+        left: 1050px;
+        top: 737.05px;
+        background: url(index/Server.jpg)
+    }
+
+    /* Group 1133 */
+
+    .gro {
+        position: absolute;
+        width: 71px;
+        height: 65px;
+        left: 1142.5px;
+        top: 732.05px;
+        background: url(index/Group%201133.jpg)
+    }
+
+    /* Illustration/Free */
+
+    .Free {
+        position: absolute;
+        width: 146.9px;
+        height: 165.37px;
+        left: 268.55px;
+        top: 1856.18px;
+        background: Url(index/Free.jpg)
+    }
+
+    /* Illustration/Standard */
+
+    .Standard {
+        position: absolute;
+        width: 146.9px;
+        height: 165.37px;
+        left: 654.55px;
+        top: 1856.18px;
+        background: url(index/Standard.jpg)
+    }
+
+    /* Illustration/Premium */
+
+    .Premium {
+        position: absolute;
+        width: 145.9px;
+        height: 165.37px;
+        left: 1040.55px;
+        top: 1856.18px;
+        background: url(index/Premium.jpg)
+    }
+
+    /* Group 1254 */
+
+    .last {
+        position: absolute;
+        width: 190.17px;
+        height: 150px;
+        left: 245.96px;
+        top: 2111.55px;
+        background: url(index/Group%201254.jpg)
+    }
+
+    /* Group 1253 */
+
+    .lasg {
+        position: absolute;
+        width: 190.36px;
+        height: 190px;
+        left: 631.91px;
+        top: 2111.55px;
+        background: url(index/Group%201253.jpg)
+    }
+
+    /* Group 1252 */
+
+    .lar {
+        position: absolute;
+        width: 191.68px;
+        height: 230px;
+        left: 1016.59px;
+        top: 2111.55px;
+        background: url(index/Group%201252.jpg)
+    }
+
+    /* Button/nonact/select */
+
+    .select {
+        position: absolute;
+        width: 177.88px;
+        height: 45px;
+        left: 252.06px;
+        top: 2441.55px;
+        background: url(index/select.jpg)
+    }
+
+    /* Button/nonact/select */
+
+    .sele {
+        position: absolute;
+        width: 177.88px;
+        height: 45px;
+        left: 638.06px;
+        top: 2441.55px;
+        background: url(index/select.jpg)
+    }
+
+    /* Button/act/select */
+
+    .selecg {
+        position: absolute;
+        width: 210.94px;
+        height: 100px;
+        left: 1000px;
+        top: 2400.55px;
+        background: url(index/select341.jpg)
+    }
+
+    /* Huge Global */
+
+    .global {
+        position: absolute;
+        width: 1060px;
+        height: 537.77px;
+        left: 190px;
+        top: 3022.36px;
+        background: url(index/Huge%20Global.jpg)
+    }
+
+    /* Sponsored */
+
+    .Sponsored {
+        position: absolute;
+        width: 1149.64px;
+        height: 208.32px;
+        left: 145px;
+        top: 3595.93px;
+        background: url(index/Sponsored.jpg)
+    }
+
+    /* Group 1173 */
+
+    .qwer {
+        position: absolute;
+        width: 1313px;
+        height: 590px;
+        left: 150px;
+        top: 3854.25px;
+        background: url(index/Group%201173.jpg)
+    }
+
+    /* Group 1210 */
+
+    .red {
+        position: absolute;
+        width: 1140px;
+        height: 233px;
+        left: 150px;
+        top: 4509.28px;
+        background: url(index/Group%201210.jpg)
+    }
+
+    /* Logo */
+
+    .green {
+        position: absolute;
+        width: 148px;
+        height: 36.23px;
+        left: 150px;
+        top: 4805.78px;
+        background: url(index/Logo123.jpg)
+    }
+
+    /* Socmed/Facebook */
+
+    .Facebook {
+        position: absolute;
+        width: 50.77px;
+        height: 41.24px;
+        left: 150px;
+        top: 4945.94px;
+        background: url(index/Facebook.jpg)
+    }
+
+    /* Socmed/Twitter */
+
+    .Twitter {
+        position: absolute;
+        width: 55.4px;
+        height: 41.24px;
+        left: 203.6px;
+        top: 4945.94px;
+        background: url(index/Twitter.jpg)
+    }
+
+    /* Socmed/Instagram */
+
+    .Instagram {
+        position: absolute;
+        width: 53.03px;
+        height: 41.24px;
+        left: 258.2px;
+        top: 4945.94px;
+        background: url(index/Instagram.jpg)
+    }
+
+    /* Group 1169 */
+
+    .yelrd {
+        position: absolute;
+        width: 74px;
+        height: 280px;
+        left: 729px;
+        top: 4808.89px;
+        background: url(index/Group%201169.jpg)
+    }
+
+    /* Group 1170 */
+
+    .teal {
+        position: absolute;
+        width: 123px;
+        height: 280px;
+        left: 931px;
+        top: 4808.89px;
+        background: url(index/Group%201170.jpg)
+    }
+
+    /* Group 1171 */
+
+    .ball {
+        position: absolute;
+        width: 121px;
+        height: 120px;
+        left: 1183px;
+        top: 4808.89px;
+        background: url(index/Group%201171.jpg)
+    }
+
+    /* nav */
+    .nav {
+        padding-top: 35px;
+        display: flex;
+        justify-content: center;
+        font-family: 'Rubik', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 19px;
+        color: #4F5665;
+
+    }
+
+    /* nav_link */
+    .nav_link {
+        display: inline-block;
+        vertical-align: top;
+        margin: 20px;
+        color: #4F5665;
+        text-decoration: none;
+
+        transition: color 0.2 linear;
+    }
+
+    .nav_link:hover {
+        color: greenyellow;
+    }
+
+    /* zeb*/
+    .zeb {
+        position: absolute;
+        width: 555px;
+        height: 140px;
+        left: 150px;
+        top: 206.77px;
+
+        font-family: 'Rubik', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 50px;
+        line-height: 70px;
+        /* or 140% */
+
+
+        color: #0B132A;
+
+    }
+
+    /* Provide */
+    .Provide {
+        position: absolute;
+        width: 555px;
+        height: 60px;
+        left: 150px;
+        top: 366.77px;
+
+        font-family: 'Rubik', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 30px;
+        /* or 187% */
+
+
+        color: #4F5665;
+    }
+
+    /* Rectangle 264 */
+
+    .test {
+
+        width: 1068.84px;
+        height: 189.22px;
+        left: 185.58px;
+        top: 717.35px;
+
+        background: #F8F8F8;
+
+    }
+
+    /* Vector 14 */
+
+    .vector {
+        position: absolute;
+        width: 0px;
+        height: 125.57px;
+        left: 521.5px;
+        top: 701.76px;
+
+        border: 2px solid #EEEFF2;
+        \
+
+    }
+
+    /* Vector 15 */
+
+    .vecth {
+        position: absolute;
+        width: 0px;
+        height: 125.57px;
+        left: 956.5px;
+        top: 701.76px;
+
+        border: 2px solid #EEEFF2
+    }
+
+    /* Rectangle 252 */
+
+    .yet {
+        position: relative;
+        width: 1140px;
+        height: 200px;
+        left: 150px;
+        top: 664.55px;
+
+        background: #fff;
+    }
+
+    /* We Provide Many Features You Can Use */
+
+    .Wel {
+        position: absolute;
+        width: 383.41px;
+        height: 100px;
+        left: 872.12px;
+        top: 1014.55px;
+
+        font-family: 'Rubik', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 35px;
+        line-height: 50px;
+        /* or 143% */
+
+
+        color: #0B132A;
+    }
+
+    /* You can explore the features that we provide with fun and have their own functions each feature. */
+
+    .you {
+        position: absolute;
+        width: 427.88px;
+        height: 60px;
+        left: 872.12px;
+        top: 1134.55px;
+
+        font-family: 'Rubik', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 30px;
+        /* or 187% */
+
+
+        color: #4F5665;
+    }
+
+    /* Group 1120 */
+
+    .like_I {
+        position: absolute;
+        width: 24px;
+        height: 24px;
+        left: 872.12px;
+        top: 1230.55px;
+        background: url(index/Group%201120.jpg)
+    }
+
+    /* Group 1121 */
+
+    .like_II {
+        position: absolute;
+        width: 24px;
+        height: 24px;
+        left: 872.12px;
+        top: 1275.55px;
+        background: url(index/Group%201120.jpg)
+    }
+
+    /* Group 1122 */
+
+    .like_III {
+        position: absolute;
+        width: 24px;
+        height: 24px;
+        left: 872.12px;
+        top: 1320.55px;
+        background: url(index/Group%201120.jpg)
+    }
+
+    /* bx:bxs-check-circle */
+
+    .like_IV {
+        position: absolute;
+        width: 24px;
+        height: 24px;
+        left: 872.12px;
+        top: 1365.55px;
+        background: url(index/Group%201120.jpg)
+    }
+/* Powerfull online protection. */
+
+.text_I{
+position: absolute;
+width: 180px;
+height: 30px;
+left: 906.2px;
+top: 1214.55px;
+
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+color: #4F5665;
+}
+
+/* Internet without borders. */
+
+.text_II{
+position: absolute;
+width: 164px;
+height: 30px;
+left: 906.2px;
+top: 1259.55px;
+
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+
+color: #4F5665;
+}
+/* Supercharged VPN */
+
+.text_III{
+position: absolute;
+width: 124px;
+height: 30px;
+left: 906.2px;
+top: 1304.55px;
+
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+
+color: #4F5665;
+}
+/* No specific time limits. */
+
+.text_IV{
+position: absolute;
+width: 146px;
+height: 30px;
+left: 906.2px;
+top: 1349.55px;
+
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+
+color: #4F5665;
+}
+/* Choose Your Plan */
+
+.Choose{
+position: absolute;
+width: 383.41px;
+height: 50px;
+left: 534.3px;
+top: 1586.55px;
+
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 50px;
+/* identical to box height, or 143% */
+
+text-align: center;
+
+color: #0B132A;
+    }
+/* Let's choose the package that is best for you and explore it happily and cheerfully. */
+
+.let{
+position: absolute;
+width: 555px;
+height: 60px;
+left: 446.5px;
+top: 1656.55px;
+
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+text-align: center;
+
+color: #4F5665;
+}
+/* Rectangle 253 */
+
+.teg_I{
+position: absolute;
+width: 330px;
+height: 760px;
+left: 175px;
+top: 1776.55px;
+
+background: #FFFFFF;
+border: 2px solid #DDDDDD;
+box-sizing: border-box;
+border-radius: 10px;
+}
+/* Rectangle 254 */
+
+.teg_II{
+position: absolute;
+width: 330px;
+height: 760px;
+left: 561px;
+top: 1776.55px;
+
+background: #FFFFFF;
+border: 2px solid #DDDDDD;
+box-sizing: border-box;
+border-radius: 10px;
+}
+/* Rectangle 255 */
+
+.teg_III{
+position: absolute;
+width: 330px;
+height: 760px;
+left: 946px;
+top: 1776.55px;
+
+background: #FFFFFF;
+border: 2px solid #F53838;
+box-sizing: border-box;
+border-radius: 10px;
+}
+/* Huge Global Network of Fast VPN */
+
+.huge{
+position: absolute;
+width: 383.41px;
+height: 100px;
+left: 534.3px;
+top: 2686.55px;
+
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 50px;
+/* or 143% */
+
+text-align: center;
+
+color: #0B132A;
+}
+/* See LaslesVPN everywhere to make it easier for you when you move locations. */
+
+.see{
+position: absolute;
+width: 555px;
+height: 60px;
+left: 446.5px;
+top: 2806.55px;
+
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+text-align: center;
+
+color: #4F5665;
+}
+/* LaslesVPN is a private virtual network that has unique features and has high security. */
+
+.vpn{
+position: absolute;
+width: 340px;
+height: 61.57px;
+left: 150px;
+top: 4862.01px;
+
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+
+color: #4F5665;
+}
+/* ©2020LaslesVPN */
+
+.lasles{
+position: absolute;
+width: 132px;
+height: 30px;
+left: 150px;
+top: 5017.18px;
+
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 187% */
+
+text-align: center;
+
+color: #AFB5C0;
+}
+/* Free Plan */
+
+.Plan_I{
+position: absolute;
+width: 82px;
+height: 30px;
+left: 300px;
+top: 2051.55px;
+
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+
+text-align: center;
+
+color: #0B132A;
+}
+/* Standard Plan */
+
+.Plan_II{
+position: absolute;
+width: 123px;
+height: 30px;
+left: 665.5px;
+top: 2051.55px;
+
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+
+text-align: center;
+
+color: #0B132A;
+}
+/* Premium Plan */
+
+.Plan_III{
+position: absolute;
+width: 121px;
+height: 30px;
+left: 1052.5px;
+top: 2051.55px;
+
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+
+text-align: center;
+
+color: #0B132A;
+}
+/* Free */
+
+.sale_I{
+position: absolute;
+width: 54px;
+height: 30px;
+left: 314px;
+top: 2391.55px;
+
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 30px;
+/* identical to box height, or 120% */
+
+text-align: center;
+
+color: #0B132A;
+}
+/* $9 / mo */
+
+.sale_II{
+position: absolute;
+width: 92px;
+height: 30px;
+left: 681px;
+top: 2391.55px;
+
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 30px;
+/* identical to box height, or 120% */
+
+text-align: center;
+
+color: #0B132A;
+}
+/* $12 / mo */
+
+.sale_III{
+position: absolute;
+width: 104px;
+height: 30px;
+left: 1061px;
+top: 2360.55px;
+
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 30px;
+/* identical to box height, or 120% */
+
+text-align: center;
+
+color: #0B132A;
+}
