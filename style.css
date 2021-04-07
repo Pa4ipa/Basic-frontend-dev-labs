@@ -1,0 +1,39 @@
+body {
+
+    background: url(JPG/BG.jpg)
+}
+
+.
+/* BG */
+
+. BG {
+    position: relative;
+    width: 1600px;
+    height: 2395px;
+
+    background: #FFFFFF;
+}
+
+/* Rectangle 13 */
+
+.Rectangle {
+    position: absolute;
+    width: 1625px;
+    height: 2677px;
+    right: -16px;
+    bottom: -150px;
+   background: linear-gradient(0deg, #5F7AD3, #5F7AD3);
+
+}
+
+.IMDb {
+    position: absolute;
+    width: 1300px;
+    height: 2195px;
+     margin-left: 90px;
+    margin-right: 159px;
+    text-align: center;
+
+
+    background: url(JPG/IMDb%20concept.jpg)
+}
