@@ -1,0 +1,721 @@
+body {
+    /* homepage */
+
+
+    position: relative;
+    width: 2000px;
+    height: 5161px;
+
+    font-family: "Gilroy ExtraBold";
+}
+
+/* homepage */
+
+
+
+/* Hero */
+
+.Hero {
+    position: absolute;
+    width: 1366px;
+    height: 768px;
+    left: 0px;
+    top: 0px;
+}
+
+/* illustration */
+
+.illustration {
+    position: absolute;
+    width: 687.25px;
+    height: 579.31px;
+    left: 655.38px;
+    top: 133px;
+    background: url(Jpg/illustration.jpg)
+        /* New Automation Tool for Your Home */
+}
+
+.Next {
+
+    position: absolute;
+    width: 510px;
+    height: 148px;
+    left: 212px;
+    top: 189px;
+    font-family: Gilroy;
+
+    font-size: 45px;
+    line-height: 74px;
+    /* or 116% */
+
+    letter-spacing: 0.04em;
+
+    /* Blue_01 */
+
+    color: #1F3F68;
+}
+
+/* Rectangle 3 */
+
+.Rectangle_III {
+    position: absolute;
+    width: 275px;
+    height: 100px;
+    left: 213px;
+    top: 522px;
+
+    /* blue_04 */
+    background: url(Jpg/Group.jpg)
+}
+
+/* See Our Project */
+
+.Se {
+    position: absolute;
+    width: 124px;
+    height: 26px;
+    left: 264px;
+    top: 537px;
+
+    color: red;
+}
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Faucibus tristique vulputate ultrices ut mauris tellus at. Posuere sollicitudin odio tellus elit. */
+
+.Lorem {
+    position: absolute;
+    width: 425px;
+    height: 82px;
+    left: 213px;
+    top: 369px;
+
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* Blue_01 */
+
+    color: #1F3F68;
+
+    opacity: 0.6;
+}
+
+/* Rectangle */
+
+.Rectangle_I {
+    position: absolute;
+    width: 1366px;
+    height: 768px;
+    left: 0px;
+    top: 0px;
+
+    background: linear-gradient(0deg, #98C3E8 8.84%, rgba(152, 195, 232, 0) 31.12%);
+    opacity: 0.2;
+}
+
+/* Navigation */
+
+.Navigation {
+    position: absolute;
+    width: 1200px;
+    height: 48px;
+    left: 83px;
+    top: 40px;
+    background: url(Jpg/Navigation.jpg)
+}
+
+/* what we do */
+.what {
+    position: absolute;
+    width: 940px;
+    height: 1162px;
+    left: 206px;
+    top: 948px;
+    background: url(Jpg/what%20we%20do.jpg)
+}
+
+/* Rectangle 3 */
+
+.Rectangle_IV {
+    position: absolute;
+    width: 1366px;
+    height: 1549px;
+    left: 0px;
+    top: 3612px;
+
+    /* blue_04 */
+
+    background: #5A98D0;
+    border-radius: 200px 0px 0px 0px;
+}
+
+/* Group 8 */
+
+.Group {
+    position: absolute;
+    width: 1050px;
+    height: 290px;
+    left: 213px;
+    top: 3905px;
+    background: url(Jpg/txKQrQyCVeA.jpg)
+}
+
+/* Our Beloved Client */
+
+.Our {
+    position: absolute;
+    width: 223px;
+    height: 92px;
+    left: 213px;
+    top: 3690px;
+    font-size: 35px;
+    line-height: 46px;
+    /* or 128% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. */
+
+.ipsum {
+    position: absolute;
+    width: 540px;
+    height: 80px;
+    left: 533px;
+    top: 3708px;
+
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+
+    opacity: 0.6;
+}
+
+/* our_project */
+
+.project {
+    position: absolute;
+    width: 940px;
+    height: 1118px;
+    left: 213px;
+    top: 2302px;
+    background: url(Jpg/our_project.jpg)
+}
+
+/* Rectangle 4 */
+
+.Rectangle_V {
+
+
+    position: absolute;
+    width: 1270px;
+    height: 869px;
+    left: 0px;
+    top: 4292px;
+
+    /* blue_02 */
+
+    background: #316099;
+    border-radius: 0px 200px 0px 0px;
+    position: absolute;
+    width: 1270px;
+    height: 869px;
+    left: 0px;
+    top: 4292px;
+}
+
+/* Intersted to woek with our team? */
+
+.Intersted {
+    position: absolute;
+    width: 330px;
+    height: 92px;
+    left: 200px;
+    top: 4385px;
+
+
+    font-size: 36px;
+    line-height: 46px;
+    /* or 128% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. */
+
+.dolor {
+    position: absolute;
+    width: 470px;
+    height: 80px;
+    left: 200px;
+    top: 4509px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+    opacity: 0.6;
+
+}
+
+/* Group */
+
+.Group_I {
+    position: absolute;
+    width: 220px;
+    height: 56px;
+    left: 853px;
+    top: 4457px;
+
+    background: #5A98D0;
+    border-radius: 10px;
+
+
+}
+
+/* Vector */
+
+.Vector {
+    position: absolute;
+    width: 1073px;
+    height: 0px;
+    left: -13px;
+    top: 4685px;
+
+    opacity: 0.4;
+    /* white */
+
+    border: 1px solid #FFFFFF;
+}
+
+/* Lorem ipsum dolor sit amet, consectetur adipisicing elit. */
+
+.sit {
+    position: absolute;
+    width: 264px;
+    height: 48px;
+    left: 236px;
+    top: 4861px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* A. */
+
+.As {
+    position: absolute;
+    width: 19px;
+    height: 26px;
+    left: 201px;
+    top: 4861px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+
+
+    color: #FFFFFF;
+}
+
+/* +62-812-7313-4321 */
+
+.nom {
+    position: absolute;
+    width: 264px;
+    height: 26px;
+    left: 235px;
+    top: 4933px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF
+}
+
+/* hello.afrian@gmail.com */
+
+.hello {
+    position: absolute;
+    width: 264px;
+    height: 26px;
+    left: 236px;
+    top: 4983px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* T. */
+
+.tt {
+    position: absolute;
+    width: 19px;
+    height: 26px;
+    left: 200px;
+    top: 4933px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* E */
+.Es {
+    position: absolute;
+    width: 19px;
+    height: 26px;
+    left: 201px;
+    top: 4983px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* Afrianska */
+
+.Afrianska {
+    position: absolute;
+    width: 125px;
+    height: 46px;
+    left: 264px;
+    top: 4782px;
+
+    font-size: 28px;
+    line-height: 46px;
+    /* identical to box height, or 164% */
+
+    letter-spacing: 0.02em;
+
+    color: #FFFFFF;
+}
+
+/* 2019 © Afrianska. All rights reserved. */
+
+.All {
+    position: absolute;
+    width: 400px;
+    height: 26px;
+    left: 200px;
+    top: 5073px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+
+    opacity: 0.4;
+}
+
+/* logo */
+
+.logo {
+    position: absolute;
+    width: 49px;
+    height: 40px;
+    left: 200px;
+    top: 4805px;
+
+
+
+    background: url(Jpg/2Phj4JXT4QI.jpg)
+}
+
+/* About US */
+
+.A_I {
+    position: absolute;
+    width: 95px;
+    height: 30px;
+    left: 600px;
+    top: 4781px;
+
+
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* About */
+
+.A_II {
+    position: absolute;
+    width: 50px;
+    height: 26px;
+    left: 600px;
+    top: 4843px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+
+    /* white */
+    color: #FFFFFF;
+}
+
+/* What We Do */
+
+.A_III {
+    position: absolute;
+    width: 103px;
+    height: 26px;
+    left: 600px;
+    top: 4885px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* Project */
+
+.A_IV {
+    position: absolute;
+    width: 57px;
+    height: 26px;
+    left: 600px;
+    top: 4927px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* How It Work With Us */
+
+.A_V {
+    position: absolute;
+    width: 166px;
+    height: 26px;
+    left: 600px;
+    top: 4969px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* Follow US */
+
+.C_I {
+    position: absolute;
+    width: 99px;
+    height: 30px;
+    left: 840px;
+    top: 4781px;
+
+
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* Instagram */
+
+.C_II {
+    position: absolute;
+    width: 82px;
+    height: 26px;
+    left: 840px;
+    top: 4843px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* Facebook */
+
+.C_III {
+    position: absolute;
+    width: 81px;
+    height: 26px;
+    left: 840px;
+    top: 4885px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* LinkedIn */
+
+.C_IV {
+    position: absolute;
+    width: 66px;
+    height: 26px;
+    left: 840px;
+    top: 4927px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* Youtube */
+
+.C_V {
+    position: absolute;
+    width: 67px;
+    height: 26px;
+    left: 840px;
+    top: 4969px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* Let’s Talk */
+
+.LL {
+    position: absolute;
+    width: 76px;
+    height: 26px;
+    left: 928px;
+    top: 4472px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    text-align: center;
+    letter-spacing: 0.04em;
+
+    color: #FFFFFF;
+}

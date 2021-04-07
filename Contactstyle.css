@@ -1,0 +1,947 @@
+body {
+
+    position: relative;
+    width: 1366px;
+    height: 2777px;
+    font-family: "Gilroy ExtraBold";
+    background: #FFFFFF
+}
+
+/* Navigation */
+
+.Navigation {
+    position: absolute;
+    width: 1200px;
+    height: 48px;
+    left: 83px;
+    top: 40px;
+    background: url(Jpg/Navigation.jpg)
+}
+
+/* tiitle */
+
+.tiitle {
+    position: absolute;
+    width: 1366px;
+    height: 250px;
+    left: 0px;
+    top: 137px;
+    background: url(Jpg/tiitle1.jpg)
+}
+
+/* Rectangle 2 */
+
+.Rectangle_II {
+    position: absolute;
+    width: 940px;
+    height: 480px;
+    left: 213px;
+    top: 1332px;
+
+    background: url(Jpg/Rectangle%202.jpg);
+
+}
+
+.Rectangle_V {
+
+
+    position: absolute;
+    width: 1270px;
+    height: 869px;
+    left: 0px;
+    top: 1908px;
+
+    /* blue_02 */
+
+    background: #316099;
+    border-radius: 0px 200px 0px 0px;
+    position: absolute;
+    width: 1270px;
+    height: 869px;
+    left: 0px;
+    top: 1908px;
+}
+
+/* Intersted to woek with our team? */
+
+.Intersted {
+    position: absolute;
+    width: 330px;
+    height: 92px;
+    left: 200px;
+    top: 1999px;
+
+
+    font-size: 36px;
+    line-height: 46px;
+    /* or 128% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. */
+
+.dolor {
+    position: absolute;
+    width: 470px;
+    height: 80px;
+    left: 200px;
+    top: 2123px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+    opacity: 0.6;
+
+}
+
+/* Group */
+
+.Group_I {
+    position: absolute;
+    width: 220px;
+    height: 56px;
+    left: 853px;
+    top: 2073px;
+
+    background: #5A98D0;
+    border-radius: 10px;
+}
+
+/* Vector */
+
+.Vector {
+    position: absolute;
+    width: 1073px;
+    height: 0px;
+    left: -13px;
+    top: 2299px;
+
+    opacity: 0.4;
+    /* white */
+
+    border: 1px solid #FFFFFF;
+}
+
+/* Lorem ipsum dolor sit amet, consectetur adipisicing elit. */
+
+.sit {
+    position: absolute;
+    width: 264px;
+    height: 48px;
+    left: 236px;
+    top: 2475px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+
+}
+
+/* A. */
+
+.As {
+    position: absolute;
+    width: 19px;
+    height: 26px;
+    left: 201px;
+    top: 2475px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+
+
+    color: #FFFFFF;
+}
+
+/* +62-812-7313-4321 */
+
+.nom {
+    position: absolute;
+    width: 264px;
+    height: 26px;
+    left: 235px;
+    top: 2547px;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF
+}
+
+/* hello.afrian@gmail.com */
+
+.hello {
+    position: absolute;
+    width: 264px;
+    height: 26px;
+    left: 236px;
+    top: 2597px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* T. */
+
+.tt {
+    position: absolute;
+    width: 19px;
+    height: 26px;
+    left: 200px;
+    top: 2547px;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* E */
+.Es {
+    position: absolute;
+    width: 19px;
+    height: 26px;
+    left: 201px;
+    top: 2597px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* Afrianska */
+
+.Afrianska {
+    position: absolute;
+    width: 125px;
+    height: 46px;
+    left: 264px;
+    top: 2395px;
+
+    font-size: 28px;
+    line-height: 46px;
+    /* identical to box height, or 164% */
+
+    letter-spacing: 0.02em;
+
+    color: #FFFFFF;
+}
+
+/* 2019 © Afrianska. All rights reserved. */
+
+.All {
+    position: absolute;
+    width: 400px;
+    height: 26px;
+    left: 200px;
+    top: 2687px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+
+    opacity: 0.4;
+}
+
+/* logo */
+
+.logo {
+    position: absolute;
+    width: 49px;
+    height: 40px;
+    left: 200px;
+    top: 2417px;
+
+
+
+
+    background: url(Jpg/2Phj4JXT4QI.jpg)
+}
+
+/* About US */
+
+.A_I {
+    position: absolute;
+    width: 95px;
+    height: 30px;
+    left: 600px;
+    top: 2395px;
+
+
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* About */
+
+.A_II {
+    position: absolute;
+    width: 50px;
+    height: 26px;
+    left: 600px;
+    top: 2457px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+
+    /* white */
+    color: #FFFFFF;
+}
+
+/* What We Do */
+
+.A_III {
+    position: absolute;
+    width: 103px;
+    height: 26px;
+    left: 600px;
+    top: 2499px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* Project */
+
+.A_IV {
+    position: absolute;
+    width: 57px;
+    height: 26px;
+    left: 600px;
+    top: 2541px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* How It Work With Us */
+
+.A_V {
+    position: absolute;
+    width: 166px;
+    height: 26px;
+    left: 600px;
+    top: 2583px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* Follow US */
+
+.C_I {
+    position: absolute;
+    width: 99px;
+    height: 30x;
+    left: 840px;
+    top: 2395px;
+
+
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* Instagram */
+
+.C_II {
+    position: absolute;
+    width: 82px;
+    height: 26px;
+    left: 840px;
+    top: 2457px;
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* Facebook */
+
+.C_III {
+    position: absolute;
+    width: 81px;
+    height: 26px;
+    left: 840px;
+    top: 2499px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* LinkedIn */
+
+.C_IV {
+    position: absolute;
+    width: 66px;
+    height: 26px;
+    left: 840px;
+    top: 2541px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* Youtube */
+
+.C_V {
+    position: absolute;
+    width: 67px;
+    height: 26px;
+    left: 840px;
+    top: 2583px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+/* Group */
+
+.Group_II {
+    position: absolute;
+    width: 300.31px;
+    height: 181px;
+    left: 225px;
+    top: 499px;
+    background: url(Jpg/Group2.jpg)
+}
+
+/* ADDRESS */
+
+.ADDRESS {
+    position: absolute;
+    width: 93px;
+    height: 30px;
+    left: 214px;
+    top: 751px;
+
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+
+    letter-spacing: 0.04em;
+
+    /* Blue_01 */
+
+    color: #1F3F68;
+}
+
+/* Id convallis placerat sit sed duis id amet volutpat quam a, pharetra. */
+
+.Id {
+    position: absolute;
+    width: 299px;
+    height: 53px;
+    left: 214px;
+    top: 805px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+
+    letter-spacing: 0.04em;
+
+    /* Blue_01 */
+
+    color: #1F3F68;
+
+    opacity: 0.6;
+}
+
+/* PHONE */
+
+.PP {
+    position: absolute;
+    width: 69px;
+    height: 30px;
+    left: 212px;
+    top: 898px;
+
+
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+
+    letter-spacing: 0.04em;
+
+    /* Blue_01 */
+
+    color: #1F3F68;
+}
+
+/* ic_phone_24px */
+
+.ic_I {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 213px;
+    top: 953px;
+    background: Url(Jpg/ic_phone_24px.jpg)
+}
+
+/* ic_phone_24px */
+
+.ic_II {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 213px;
+    top: 995px;
+    background: url(Jpg/ic_phone_24px.jpg)
+}
+
+/* +62-812-7313-4321 */
+
+.contact_I {
+    position: absolute;
+    width: 150Px;
+    height: 26px;
+    left: 253px;
+    top: 938px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.04em;
+
+    /* Blue_01 */
+
+    color: #1F3F68;
+    opacity: 0.6;
+}
+
+/* +62-817-000-1234 */
+
+.contact_II {
+    position: absolute;
+    width: 150px;
+    height: 26px;
+    left: 253px;
+    top: 978px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.04em;
+
+    /* Blue_01 */
+
+    color: #1F3F68;
+    opacity: 0.6;
+}
+
+/* ONLINE SERVICE */
+
+.ONLINE {
+    position: absolute;
+    width: 163px;
+    height: 30px;
+    left: 213px;
+    top: 1060px;
+
+
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+
+    letter-spacing: 0.04em;
+
+    /* Blue_01 */
+
+    color: #1F3F68;
+}
+
+/* Vector */
+
+.Vk {
+    position: absolute;
+    width: 25px;
+    height: 22px;
+    left: 213px;
+    top: 1112px;
+    background: url(Jpg/Vector.jpg)
+}
+
+.mail {
+    position: absolute;
+    width: 21px;
+    height: 16px;
+    left: 213px;
+    top: 1155px;
+    background: url(Jpg/Vector1.jpg)
+}
+
+/* www.afrianska.com */
+
+.hhtp_I {
+    position: absolute;
+    width: 154px;
+    height: 26px;
+    left: 252px;
+    top: 1097px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* Blue_01 */
+
+    color: #1F3F68;
+    opacity: 0.6;
+}
+
+/* hello.afrian@gmail.com */
+
+.hhtp_II {
+    position: absolute;
+    width: 185px;
+    height: 26px;
+    left: 252px;
+    top: 1136px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* Blue_01 */
+
+    color: #1F3F68;
+    opacity: 0.6;
+}
+
+/* SEND US MESSAGE */
+
+.SEND {
+    position: absolute;
+    width: 189px;
+    height: 30px;
+    left: 670px;
+    top: 492px;
+
+
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+
+    letter-spacing: 0.04em;
+
+    /* Blue_01 */
+
+    color: #1F3F68;
+}
+
+/* Full Name */
+
+.Name {
+    position: absolute;
+    width: 80px;
+    height: 30px;
+    left: 670px;
+    top: 570px;
+
+
+    font-size: 16px;
+    line-height: 30px;
+    /* identical to box height, or 187% */
+
+    letter-spacing: 0.04em;
+
+    /* Blue_01 */
+
+    color: #1F3F68;
+
+    opacity: 0.8;
+}
+
+/* Email */
+
+.Email {
+    position: absolute;
+    width: 42px;
+    height: 30px;
+    left: 670px;
+    top: 712px;
+
+
+    font-size: 16px;
+    line-height: 30px;
+    /* identical to box height, or 187% */
+
+    letter-spacing: 0.04em;
+
+    /* Blue_01 */
+
+    color: #1F3F68;
+
+    opacity: 0.8;
+}
+
+/* Message */
+
+.Message {
+    position: absolute;
+    width: 70px;
+    height: 30px;
+    left: 670px;
+    top: 854px;
+
+    font-size: 16px;
+    line-height: 30px;
+    /* identical to box height, or 187% */
+
+    letter-spacing: 0.04em;
+
+    /* Blue_01 */
+
+    color: #1F3F68;
+
+    opacity: 0.8;
+}
+
+/* Rectangle 2 */
+
+.Rect_I {
+    position: absolute;
+    width: 428px;
+    height: 72px;
+    left: 670px;
+    top: 608px;
+
+    opacity: 0.4;
+    /* blue_03 */
+
+    border: 1px solid #356EAD;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+/* Rectangle 2 */
+
+
+.Rect_II {
+    position: absolute;
+    width: 428px;
+    height: 72px;
+    left: 670px;
+    top: 750px;
+
+    opacity: 0.4;
+    /* blue_03 */
+
+    border: 1px solid #356EAD;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+/* Rectangle 2 */
+
+.Rect_III {
+    position: absolute;
+    width: 428px;
+    height: 144px;
+    left: 670px;
+    top: 892px;
+
+    opacity: 0.4;
+    /* blue_03 */
+
+    border: 1px solid #356EAD;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+/* Group */
+
+.GG {
+    position: absolute;
+    width: 428px;
+    height: 72px;
+    left: 670px;
+    top: 1108px;
+
+    /* blue_04 */
+
+    background: #5A98D0;
+    /* shadow1 */
+
+    box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+    border-radius: 10px;
+}
+
+/* SUBMIT */
+
+.SUBMIT {
+    position: absolute;
+    width: 59px;
+    height: 26px;
+    left: 855px;
+    top: 1131px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    text-align: center;
+    letter-spacing: 0.04em;
+
+    color: #FFFFFF;
+}
+
+/* Let’s Talk */
+
+.LL {
+    position: absolute;
+    width: 80px;
+    height: 26px;
+    left: 928px;
+    top: 2088px;
+
+
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    text-align: center;
+    letter-spacing: 0.04em;
+
+    color: #FFFFFF;
+}
