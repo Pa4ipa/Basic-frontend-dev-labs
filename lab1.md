@@ -35,9 +35,9 @@
 <p>№2 – таблицу (рис.2); 
 <p>№3 – ваше имя, отчество и фамилию; 
 <p>№4 – список дисциплин и преподавателей текущего семестра.  
-<p align=center><img src=../Pa4ipa-patch-1/img1.png>
+<p align=center><img src=../Pa4ipa-patch-1/img.1.png>
 <p align=center>Рисунок 1
-<p align=center><img src=../Pa4ipa-patch-1/img2.png>
+<p align=center><img src=../Pa4ipa-patch-1/img.2..png>
 <p align=center>Рисунок 2 
 <p align=center>2
 
