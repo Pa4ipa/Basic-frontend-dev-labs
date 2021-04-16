@@ -37,7 +37,7 @@
 6. Защитить лабораторную работу
 <p>Ход выполнения  
 <p> <b>Задание 1.</b> Разработать макет формы регистрации пользователя.В результате выполнения задания была реализована страница, скриншот которой находится на рисунке 1.
-<p align="center"><img src=../Basic-frontend-dev-labs/img6.png>
+<p align="center"><img src=../Pa4ipa-patch-1/img6.png>
 <p align="center">Рисунок 1
 <p align=center>2
 
@@ -46,11 +46,11 @@
 <p> <b>Задание 2.</b> На основании изученного материала постройте макет html страницы в зависимости от варианта. Номер варианта получается путем сложения всех цифр номера зачетной книжки с последующим взятием остатка от деления на 7 и прибавлением к результату единицы.  
 
 В результате выполнения задания была реализована страница.
-<p align=center><img src=../Basic-frontend-dev-labs/img7.png>
-<p align=center><img src=../Basic-frontend-dev-labs/img8.png>
-<p align=center><img src=../Basic-frontend-dev-labs/img9.png>
-<p align=center><img src=../Basic-frontend-dev-labs/img10.png>
-<p align=center><img src=../Basic-frontend-dev-labs/img11.png>
+<p align=center><img src=../Pa4ipa-patch-1/img7.png>
+<p align=center><img src=../Pa4ipa-patch-1/img8.png>
+<p align=center><img src=../Pa4ipa-patch-1/img9.png>
+<p align=center><img src=../Pa4ipa-patch-1/img10.png>
+<p align=center><img src=../Pa4ipa-patch-1/img11.png>
 <p align = center><b>Рисунок 2 - Скриншот результатат работы</b> 
 <p align=center>3
 
