@@ -46,7 +46,7 @@
 В соответствии с требованием в задании пройти валидацию, она была успешно пройдена для основного документа index4.html (рис. 3) и для документа с фреймом i4-menu.html (рис. 4).
 <p align=center><img src=../Basic-frontend-dev-labs/img3.jpg>
 <p align=center>Рисунок 3
-<p align=center><img src=../Basic-frontend-dev-labs/img4.jpg>
+<p align=center><img src=../img4.jpg>
 <p align=center>Рисунок 4 
 
 Скриншот конечной страницы приведен на рисунке 5, листинг файла index4.html.
