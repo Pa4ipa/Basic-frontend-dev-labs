@@ -35,22 +35,22 @@
 <p>№2 – таблицу (рис.2); 
 <p>№3 – ваше имя, отчество и фамилию; 
 <p>№4 – список дисциплин и преподавателей текущего семестра.  
-<p align=center><img src=../Basic-frontend-dev-labs/img.1.png>
+<p align=center><img src=../Pa4ipa-patch-1/img1.png>
 <p align=center>Рисунок 1
-<p align=center><img src=../Basic-frontend-dev-labs/img.2..png>
+<p align=center><img src=../Pa4ipa-patch-1/img2.png>
 <p align=center>Рисунок 2 
 <p align=center>2
 
 ---
 
 В соответствии с требованием в задании пройти валидацию, она была успешно пройдена для основного документа index4.html (рис. 3) и для документа с фреймом i4-menu.html (рис. 4).
-<p align=center><img src=../Basic-frontend-dev-labs/img3.jpg>
+<p align=center><img src=../Pa4ipa-patch-1/img3.jpg>
 <p align=center>Рисунок 3
 <p align=center><img src=../Pa4ipa-patch-1/img4.jpg>
 <p align=center>Рисунок 4 
 
 Скриншот конечной страницы приведен на рисунке 5, листинг файла index4.html.
-<p align=center><img src=../Basic-frontend-dev-labs/img5.png>Рисунок 5
+<p align=center><img src=../Pa4ipa-patch-1/img5.png>Рисунок 5
  
 <p align=center>3
 
