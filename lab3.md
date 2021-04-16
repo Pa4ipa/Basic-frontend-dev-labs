@@ -41,9 +41,10 @@
   
   В соответствии с заданием была реализована страница.
 
-<p align="center"><img src=../Basic-frontend-dev-labs/img12.png>
-<p align="center"><img src=../Basic-frontend-dev-labs/img13.png>
-<p align="center"><img src=../Basic-frontend-dev-labs/img14.png>
+<p align="center"><img src=../Pa4ipa-patch-1/img12.png>
+<p align="center"><img src=../Pa4ipa-patch-1/img13.png>
+<p align="center"><img src=../Pa4ipa-patch-1/img14.png>
+
 <p align=center>2
 
 ---
