@@ -35,28 +35,28 @@
 
 <p>Ход выполнения  
 <p> <b>Задание. </b>Сделать верстку веб-страниц,с использованием JavaScript и библиотеки TailWind CSS.
-<p align=center><img src=../Basic-frontend-dev-labs/img15.png>
-<p align=center><img src=../Basic-frontend-dev-labs/img16.png>
-<p align=center><img src=../Basic-frontend-dev-labs/img17.png>
-<p align=center><img src=../Basic-frontend-dev-labs/img18.png>
-<p align=center><img src=../Basic-frontend-dev-labs/img19.png>
+<p align=center><img src=../Pa4ipa-patch-1/img15.png>
+<p align=center><img src=../Pa4ipa-patch-1/img16.png>
+<p align=center><img src=../Pa4ipa-patch-1/img17.png>
+<p align=center><img src=../Pa4ipa-patch-1/img18.png>
+<p align=center><img src=../Pa4ipa-patch-1/img19.png>
 
 ---
 
-<p align=center><img src=../Basic-frontend-dev-labs/img20.png>
-<p align=center><img src=../Basic-frontend-dev-labs/img21.png>
-<p align=center><img src=../Basic-frontend-dev-labs/img22.png>
-<p align=center><img src=../Basic-frontend-dev-labs/img23.png>
-<p align=center><img src=../Basic-frontend-dev-labs/img27.png>
+<p align=center><img src=../Pa4ipa-patch-1/img20.png>
+<p align=center><img src=../Pa4ipa-patch-1/img21.png>
+<p align=center><img src=../Pa4ipa-patch-1/img22.png>
+<p align=center><img src=../Pa4ipa-patch-1/img23.png>
+<p align=center><img src=../Pa4ipa-patch-1/img27.png>
 
 ---
 
-<p align=center><img src=../Basic-frontend-dev-labs/img24.png>
-<p align=center><img src=../Basic-frontend-dev-labs/img25.png>
-<p align=center><img src=../Basic-frontend-dev-labs/img26.png>
-<p align=center><img src=../Basic-frontend-dev-labs/img27.png>
+<p align=center><img src=../Pa4ipa-patch-1/img24.png>
+<p align=center><img src=../Pa4ipa-patch-1/img25.png>
+<p align=center><img src=../Pa4ipa-patch-1/img26.png>
+<p align=center><img src=../Pa4ipa-patch-1/img27.png>
 
 
 Так же в соответствии с заданием была выполнена обработка нажатия кнопок на страницах.
-<p align=center><img src=../Basic-frontend-dev-labs/img28.png>
-<p align=center><img src=../Basic-frontend-dev-labs/img29.png>
+<p align=center><img src=../Pa4ipa-patch-1/img28.png>
+<p align=center><img src=../Pa4ipa-patch-1/img29.png>
